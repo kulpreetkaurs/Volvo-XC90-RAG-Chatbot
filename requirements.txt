@@ -1,0 +1,6 @@
+pinecone
+python-dotenv
+ollama
+langchain-huggingface
+sentence-transformers
+gradio
